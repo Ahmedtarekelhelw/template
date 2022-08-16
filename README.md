@@ -1,2 +1,2 @@
-# template
-this link for template https://ahmedtarekelhelw.github.io/template/
+# Responsive Template
+## This link for template https://ahmedtarekelhelw.github.io/template/
